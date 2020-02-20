@@ -1,8 +1,8 @@
 {
-  "name": "react-native-twitter",
-  "description": "react-native-twitter",
-  "version": "0.2.1",
-  "author": "Piroro-hs",
+  "name": "@hugocourthias/expo-twitter-login",
+  "description": "expo-twitter-login",
+  "version": "1.0.0",
+  "author": "Piroro-hs / hugocourthias",
   "ava": {
     "babel": {
       "babelrc": true,
@@ -23,12 +23,12 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/Piroro-hs/react-native-twitter/issues"
+    "url": "https://github.com/Piroro-hs/expo-twitter-login/issues"
   },
   "dependencies": {
     "eventemitter3": "^2.0.3",
     "jssha": "^2.3.1",
-    "url-search-params": "^0.10.0"
+    "@ungap/url-search-params": "^0.1.4"
   },
   "devDependencies": {
     "ava": "^0.22.0",
@@ -46,7 +46,7 @@
     "android/src",
     "src"
   ],
-  "homepage": "https://github.com/Piroro-hs/react-native-twitter#readme",
+  "homepage": "https://github.com/hugocourthias/expo-twitter-login#readme",
   "keywords": [
     "api",
     "oauth",
