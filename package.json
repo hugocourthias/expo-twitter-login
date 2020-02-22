@@ -20,9 +20,8 @@
     "babel-preset-expo": "~8.0.0"
   },
   "peerDependencies": {
+    "expo": ">=35.0.0",
     "react": "*",
-    "react-native": ">= 0.49.0",
-    "expo": "~36.0.0",
-    "@react-native-community/netinfo": ">= 4.6.0"
+    "react-native": ">= 0.49.0"
   }
 }
